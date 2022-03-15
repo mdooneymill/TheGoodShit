@@ -2,7 +2,6 @@
 [Chris Kopic](https://twitter.com/chriskopic)  
 [Amy Goodchild](https://twitter.com/amygoodchild)  
 [Corneel Cannaerts](https://twitter.com/introspect0r)  
-[Corneel Cannaerts](https://twitter.com/introspect0r)  
 [Patakk](https://twitter.com/patakk)  
 [Sheltron](https://twitter.com/Sheltron3030)  
 [Simon Houdini](https://twitter.com/Simon_Houdini)  
@@ -77,7 +76,6 @@
 [Damien Mortini](https://twitter.com/damienmortini)  
 [Thomas Hooper](https://twitter.com/tdhooper)  
 [Saskia Freeke](https://twitter.com/sasj_nl)  
-[Yi Shen](https://twitter.com/pissang1)  
 [Yi Shen](https://twitter.com/pissang1)  
 
 
